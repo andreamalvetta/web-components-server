@@ -36,20 +36,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/../../vendor/helpers/babel-helpers-modern.min.js"
   },
   {
-    "revision": "5c703e8b191229cbad883fd90fac7732",
-    "url": "assets/js/../../vendor/helpers/regenerator-runtime.min.js"
-  },
-  {
     "revision": "c80452ebf1ed83ca0ba794e4476839d3",
     "url": "assets/js/../../vendor/helpers/babel-helpers.min.js"
   },
   {
-    "revision": "5a33b1c07d13f231fbf3c1268efe5fa3",
-    "url": "assets/js/../img/icon-144x144.png"
+    "revision": "5c703e8b191229cbad883fd90fac7732",
+    "url": "assets/js/../../vendor/helpers/regenerator-runtime.min.js"
   },
   {
     "revision": "976b78ec47dc83a5c6cf3738355e241e",
     "url": "assets/js/../img/icon-192x192.png"
+  },
+  {
+    "revision": "5a33b1c07d13f231fbf3c1268efe5fa3",
+    "url": "assets/js/../img/icon-144x144.png"
   },
   {
     "revision": "c97cedabc5416292cdd76d1907585b28",
@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/../img/icon-72x72.png"
   },
   {
-    "revision": "04bfdd5b89f793fa817393edacb86b42",
+    "revision": "15b68001bdf70a1b31d3bb6d5bac8563",
     "url": "assets/js/../../index.html"
   }
 ]);

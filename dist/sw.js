@@ -1,4 +1,4 @@
-importScripts("assets/js/precache-manifest.3a149f1f4bdddd9033c5436d50df9198.js", "https://storage.googleapis.com/workbox-cdn/releases/4.1.1/workbox-sw.js");
+importScripts("assets/js/precache-manifest.8e9a5910f51bfc95144c0ef8368f4467.js", "https://storage.googleapis.com/workbox-cdn/releases/4.1.1/workbox-sw.js");
 
 /* eslint-disable no-undef */
 
