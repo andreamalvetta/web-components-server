@@ -5,9 +5,11 @@ const port = process.env.PORT || 8000;
 const app = express();
 
 app.use(
+  '/',
   serveStatic(__dirname + '/dist/', {
     enableBrotli: true,
-    orderPreference: ['br', 'gz']
+    orderPreference: ['br', 'gz'],
+    index: false
   })
 );
 app.listen(port);
