@@ -1,15 +1,14 @@
 const express = require('express');
-const serveStatic = require('express-static-gzip');
+const expressStaticGzip = require('express-static-gzip');
 const port = process.env.PORT || 8000;
 
 const app = express();
 
 app.use(
   '/',
-  serveStatic(__dirname + '/dist/', {
+  expressStaticGzip('dist', {
     enableBrotli: true,
-    orderPreference: ['br', 'gz'],
-    index: false
+    orderPreference: ['br', 'gz']
   })
 );
 app.listen(port);
