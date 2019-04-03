@@ -4,6 +4,11 @@ const port = process.env.PORT || 8000;
 
 const app = express();
 
+app.use((req, res, next) => {
+  res.header('Cache-Control', 'max-age=86400000');
+  next();
+});
+
 app.use(
   '/',
   expressStaticGzip('dist', {
@@ -11,6 +16,7 @@ app.use(
     orderPreference: ['br', 'gz']
   })
 );
+
 app.listen(port);
 
 console.info(`Project is running at http://localhost:${port}`);
