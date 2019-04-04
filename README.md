@@ -19,3 +19,7 @@ Simple express server to serve static content, pre-gzipped files and it also sup
 ## Contributions
 
 Feel free to contribute to this project
+
+## License
+
+This project is released under the [MIT License](http://www.opensource.org/licenses/MIT)
