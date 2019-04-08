@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27eb780ba8bba1dfb0ac",
-    "url": "assets/css/main.27eb780b.css"
+    "revision": "3c4ddb11b37b6f5a1378",
+    "url": "assets/css/main.3c4ddb11.css"
   },
   {
-    "revision": "27eb780ba8bba1dfb0ac",
-    "url": "assets/js/main.27eb780b.js"
+    "revision": "3c4ddb11b37b6f5a1378",
+    "url": "assets/js/main.3c4ddb11.js"
   },
   {
     "revision": "3e2867dadb4364d59558",
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/5.c5d6f276.js"
   },
   {
-    "revision": "24f7b0944e9e03a905f9d7701573b2cd",
-    "url": "open-sans-v16-latin-300.woff2"
-  },
-  {
     "revision": "33543c5cc5d88f5695dd08c87d280dfd",
     "url": "open-sans-v16-latin-regular.woff2"
+  },
+  {
+    "revision": "24f7b0944e9e03a905f9d7701573b2cd",
+    "url": "open-sans-v16-latin-300.woff2"
   },
   {
     "revision": "0edb76284a7a0f8db4665b560ee2b48f",
@@ -96,12 +96,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "vendor/helpers/babel-helpers.min.js"
   },
   {
-    "revision": "5a33b1c07d13f231fbf3c1268efe5fa3",
-    "url": "assets/img/icon-144x144.png"
-  },
-  {
     "revision": "5c703e8b191229cbad883fd90fac7732",
     "url": "vendor/helpers/regenerator-runtime.min.js"
+  },
+  {
+    "revision": "5a33b1c07d13f231fbf3c1268efe5fa3",
+    "url": "assets/img/icon-144x144.png"
   },
   {
     "revision": "976b78ec47dc83a5c6cf3738355e241e",
@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/icon-96x96.png"
   },
   {
-    "revision": "85e0eb31066c1d354caf46decb6960bd",
+    "revision": "269dc13c79c4c7778612cdf158c1f72d",
     "url": "index.html"
   }
 ]);
