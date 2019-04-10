@@ -1,4 +1,4 @@
-importScripts("precache-manifest.a01248196a4f2eff6658f21d043ddbe3.js", "https://storage.googleapis.com/workbox-cdn/releases/4.1.1/workbox-sw.js");
+importScripts("precache-manifest.80743710065af06e44ae9dd4c59a0b93.js", "https://storage.googleapis.com/workbox-cdn/releases/4.1.1/workbox-sw.js");
 
 /* eslint-disable no-undef */
 
@@ -6,6 +6,7 @@ importScripts("precache-manifest.a01248196a4f2eff6658f21d043ddbe3.js", "https://
 // caching strategies, as Workbox will auto-inject that part when you build your
 // project. This is the perfect place to implement other great SW features.
 // (e.g. Web Push, etc...)
+workbox.core.skipWaiting();
 workbox.core.clientsClaim();
 workbox.precaching.cleanupOutdatedCaches();
 
