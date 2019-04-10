@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "open-sans-v16-latin-300.woff"
   },
   {
-    "revision": "de0869e324680c99efa1250515b4b41c",
-    "url": "open-sans-v16-latin-regular.woff"
-  },
-  {
     "revision": "1f85e92d8ff443980bc0f83ad7b23b60",
     "url": "open-sans-v16-latin-700.woff"
+  },
+  {
+    "revision": "de0869e324680c99efa1250515b4b41c",
+    "url": "open-sans-v16-latin-regular.woff"
   },
   {
     "revision": "a7622f60c56ddd5301549a786b54e6e6",
@@ -152,12 +152,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/img5/img5_800w_1x.jpg"
   },
   {
-    "revision": "3266a8321e568788b928f8c8ab1a539f",
-    "url": "assets/img/img1/img1_320w_2x.jpg"
-  },
-  {
     "revision": "74ebad0bd228999700cb6567d8cb3f2a",
     "url": "assets/img/img1/img1_320w_1x.jpg"
+  },
+  {
+    "revision": "3266a8321e568788b928f8c8ab1a539f",
+    "url": "assets/img/img1/img1_320w_2x.jpg"
   },
   {
     "revision": "b5a43668ca7d4d52e1fcab01c850d3b0",
@@ -184,12 +184,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/img5/img5_800w_2x.jpg"
   },
   {
-    "revision": "badc9c82e05f77b2e4adaac3b7a9d519",
-    "url": "assets/img/img1/img1_480w_1x.jpg"
-  },
-  {
     "revision": "331bef9e10018e30ea6a857109aef1c4",
     "url": "assets/img/img1/img1_480w_2x.jpg"
+  },
+  {
+    "revision": "badc9c82e05f77b2e4adaac3b7a9d519",
+    "url": "assets/img/img1/img1_480w_1x.jpg"
   },
   {
     "revision": "3ebf47e02adecd8cccc888ec6971d9ad",
@@ -248,12 +248,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/img4/img4_800w_1x.jpg"
   },
   {
-    "revision": "5b1928be17d9a3103fe7c94a32c72cf9",
-    "url": "assets/img/img4/img4_1500w_1x.jpg"
-  },
-  {
     "revision": "28f450db8eb9b34a79a5eb84c421ffcd",
     "url": "assets/img/img3/img3_800w_1x.jpg"
+  },
+  {
+    "revision": "5b1928be17d9a3103fe7c94a32c72cf9",
+    "url": "assets/img/img4/img4_1500w_1x.jpg"
   },
   {
     "revision": "381ce1f58920ae6ad53f826355abddd5",
@@ -288,7 +288,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/img3/img3_1500w_2x.jpg"
   },
   {
-    "revision": "d771ed532536ff988b57da7ff307cfe7",
+    "revision": "9fd4760ab97c1b32a8a9a858e62b6144",
     "url": "index.html"
   }
 ]);
