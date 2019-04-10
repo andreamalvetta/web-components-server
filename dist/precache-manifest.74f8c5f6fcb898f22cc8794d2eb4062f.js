@@ -32,10 +32,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/7.5f9717ba.js"
   },
   {
-    "revision": "33543c5cc5d88f5695dd08c87d280dfd",
-    "url": "open-sans-v16-latin-regular.woff2"
-  },
-  {
     "revision": "24f7b0944e9e03a905f9d7701573b2cd",
     "url": "open-sans-v16-latin-300.woff2"
   },
@@ -44,16 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "open-sans-v16-latin-300.woff"
   },
   {
+    "revision": "de0869e324680c99efa1250515b4b41c",
+    "url": "open-sans-v16-latin-regular.woff"
+  },
+  {
+    "revision": "33543c5cc5d88f5695dd08c87d280dfd",
+    "url": "open-sans-v16-latin-regular.woff2"
+  },
+  {
     "revision": "0edb76284a7a0f8db4665b560ee2b48f",
     "url": "open-sans-v16-latin-700.woff2"
   },
   {
     "revision": "1f85e92d8ff443980bc0f83ad7b23b60",
     "url": "open-sans-v16-latin-700.woff"
-  },
-  {
-    "revision": "de0869e324680c99efa1250515b4b41c",
-    "url": "open-sans-v16-latin-regular.woff"
   },
   {
     "revision": "a7622f60c56ddd5301549a786b54e6e6",
@@ -92,10 +92,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "manifest.json"
   },
   {
-    "revision": "e044a63e034bf10304dad73138b8c74b",
-    "url": "vendor/webcomponents/webcomponents-loader.js"
-  },
-  {
     "revision": "5958496c24d038cff6035b008df7ea66",
     "url": "vendor/helpers/babel-helpers-modern.min.js"
   },
@@ -112,28 +108,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/icons/icon-192x192.png"
   },
   {
-    "revision": "5a33b1c07d13f231fbf3c1268efe5fa3",
-    "url": "assets/img/icons/icon-144x144.png"
+    "revision": "4c890689dccd81dfc8fa95b13a262034",
+    "url": "assets/img/icons/icon-72x72.png"
   },
   {
     "revision": "843dae45cc8698138303d886b173174d",
     "url": "assets/img/icons/icon-512x512.png"
   },
   {
-    "revision": "4c890689dccd81dfc8fa95b13a262034",
-    "url": "assets/img/icons/icon-72x72.png"
+    "revision": "5a33b1c07d13f231fbf3c1268efe5fa3",
+    "url": "assets/img/icons/icon-144x144.png"
   },
   {
     "revision": "575d4c62b43be848d38a4b4a1aa11b5e",
     "url": "assets/img/icons/icon-96x96.png"
   },
   {
-    "revision": "3293422f08aa1790c1a58fba490eae56",
-    "url": "assets/img/img5/img5_320w_1x.jpg"
-  },
-  {
     "revision": "bc4cf91eff91f06d24eb1e738f93e717",
     "url": "assets/img/img5/img5_320w_2x.jpg"
+  },
+  {
+    "revision": "3293422f08aa1790c1a58fba490eae56",
+    "url": "assets/img/img5/img5_320w_1x.jpg"
   },
   {
     "revision": "acd8059e543a459878cbb61ed30a5ec4",
@@ -144,16 +140,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/img2/img2_320w_1x.jpg"
   },
   {
+    "revision": "6bd96b79a381207ea99baf819a883aee",
+    "url": "assets/img/img5/img5_800w_1x.jpg"
+  },
+  {
     "revision": "0bebf706059e1119c70e19d73e030616",
     "url": "assets/img/img5/img5_480w_2x.jpg"
-  },
-  {
-    "revision": "194577a7e20bdcc7afbb718f502c134c",
-    "url": "assets/img/img1/.DS_Store"
-  },
-  {
-    "revision": "194577a7e20bdcc7afbb718f502c134c",
-    "url": "assets/img/img4/.DS_Store"
   },
   {
     "revision": "74ebad0bd228999700cb6567d8cb3f2a",
@@ -164,8 +156,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/img2/img2_480w_1x.jpg"
   },
   {
-    "revision": "6bd96b79a381207ea99baf819a883aee",
-    "url": "assets/img/img5/img5_800w_1x.jpg"
+    "revision": "e044a63e034bf10304dad73138b8c74b",
+    "url": "vendor/webcomponents/webcomponents-loader.js"
   },
   {
     "revision": "b90573a69cfd4e0ace7b8fab3646680b",
@@ -204,6 +196,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/img2/img2_480w_2x.jpg"
   },
   {
+    "revision": "a87eb22abcbaf620ca642c708e897033",
+    "url": "assets/img/img1/img1_800w_1x.jpg"
+  },
+  {
     "revision": "6884acf7ca9ba16400c56f090cb04848",
     "url": "assets/img/img4/img4_480w_1x.jpg"
   },
@@ -212,16 +208,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/img1/img1_480w_2x.jpg"
   },
   {
-    "revision": "a87eb22abcbaf620ca642c708e897033",
-    "url": "assets/img/img1/img1_800w_1x.jpg"
-  },
-  {
     "revision": "d577355f6eae01fe1d3981a5921d6b42",
     "url": "assets/img/img3/img3_480w_1x.jpg"
   },
   {
-    "revision": "f175127f643bad5ca8bd90a6f53b60a9",
-    "url": "assets/img/img5/img5_1500w_2x.jpg"
+    "revision": "b3ddec8edc88529ef69196fc4c850ddc",
+    "url": "assets/img/img3/img3_320w_2x.jpg"
   },
   {
     "revision": "7c53657dcd08c6ee4dab2129c921e5b2",
@@ -232,8 +224,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/img2/img2_800w_2x.jpg"
   },
   {
-    "revision": "b3ddec8edc88529ef69196fc4c850ddc",
-    "url": "assets/img/img3/img3_320w_2x.jpg"
+    "revision": "f175127f643bad5ca8bd90a6f53b60a9",
+    "url": "assets/img/img5/img5_1500w_2x.jpg"
   },
   {
     "revision": "93ba59ba9201b7cde37599afc770b47d",
@@ -260,36 +252,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/img/img2/img2_1500w_2x.jpg"
   },
   {
-    "revision": "d78ae8c9e6ebc92cc05554b16f5472e0",
-    "url": "assets/img/img4/img4_480w_2x.jpg"
-  },
-  {
     "revision": "e61d825e60235dd6eb2f85a2853762e3",
     "url": "assets/img/img3/img3_480w_2x.jpg"
+  },
+  {
+    "revision": "d78ae8c9e6ebc92cc05554b16f5472e0",
+    "url": "assets/img/img4/img4_480w_2x.jpg"
   },
   {
     "revision": "8ee3185c040de9ecbe2c7ba81bc3fe5d",
     "url": "assets/img/img1/img1_1500w_2x.jpg"
   },
   {
-    "revision": "f150d24a19ce44815de3f395f6b6facb",
-    "url": "assets/img/img4/img4_1500w_1x.jpg"
-  },
-  {
     "revision": "dacc9dceb226944b030cd1864c45c0e9",
     "url": "assets/img/img3/img3_1500w_1x.jpg"
+  },
+  {
+    "revision": "f150d24a19ce44815de3f395f6b6facb",
+    "url": "assets/img/img4/img4_1500w_1x.jpg"
   },
   {
     "revision": "d1a04ebe44471f564a5722e36aa53ae1",
     "url": "assets/img/img4/img4_800w_2x.jpg"
   },
   {
-    "revision": "d8be3bdde7e7837c25c3baa17e579101",
-    "url": "assets/img/img3/img3_800w_2x.jpg"
-  },
-  {
     "revision": "6eb58f80a55ed38b754236ac45503b55",
     "url": "assets/img/img3/img3_1500w_2x.jpg"
+  },
+  {
+    "revision": "d8be3bdde7e7837c25c3baa17e579101",
+    "url": "assets/img/img3/img3_800w_2x.jpg"
   },
   {
     "revision": "b70efc8622938848441ea50b56040047",
