@@ -1,4 +1,4 @@
-importScripts("precache-manifest.523b5987bcf790d2a1cc6a2ba5bf6bfb.js", "https://storage.googleapis.com/workbox-cdn/releases/4.2.0/workbox-sw.js");
+importScripts("precache-manifest.35e82ec23cb273bf523e0e1709f831d9.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 /* eslint-disable no-undef */
 
@@ -6,7 +6,6 @@ importScripts("precache-manifest.523b5987bcf790d2a1cc6a2ba5bf6bfb.js", "https://
 // caching strategies, as Workbox will auto-inject that part when you build your
 // project. This is the perfect place to implement other great SW features.
 // (e.g. Web Push, etc...)
-workbox.core.skipWaiting();
 workbox.core.clientsClaim();
 workbox.precaching.cleanupOutdatedCaches();
 
@@ -21,6 +20,12 @@ workbox.routing.registerRoute(
   new workbox.strategies.StaleWhileRevalidate(),
   'GET'
 );
+
+self.addEventListener('message', event => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+});
 
 // Uncomment next line to enable offline Google Analytics
 // workbox.googleAnalytics.initialize();
