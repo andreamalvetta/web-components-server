@@ -304,30 +304,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "manifest.json"
   },
   {
-    "revision": "a7622f60c56ddd5301549a786b54e6e6",
-    "url": "open-sans-v16-latin-300.woff"
-  },
-  {
-    "revision": "24f7b0944e9e03a905f9d7701573b2cd",
-    "url": "open-sans-v16-latin-300.woff2"
-  },
-  {
-    "revision": "1f85e92d8ff443980bc0f83ad7b23b60",
-    "url": "open-sans-v16-latin-700.woff"
-  },
-  {
-    "revision": "0edb76284a7a0f8db4665b560ee2b48f",
-    "url": "open-sans-v16-latin-700.woff2"
-  },
-  {
-    "revision": "de0869e324680c99efa1250515b4b41c",
-    "url": "open-sans-v16-latin-regular.woff"
-  },
-  {
-    "revision": "33543c5cc5d88f5695dd08c87d280dfd",
-    "url": "open-sans-v16-latin-regular.woff2"
-  },
-  {
     "revision": "5958496c24d038cff6035b008df7ea66",
     "url": "vendor/helpers/babel-helpers-modern.min.js"
   },
