@@ -1,0 +1,21 @@
+{
+  "name": "Web Components",
+  "short_name": "web-components",
+  "description": "LitElement starter built with webpack and modern tools",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1576f3",
+  "background_color": "#1576f3",
+  "icons": [
+    {
+      "src": "assets/img/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
